@@ -41,5 +41,9 @@ let package = Package(
             dependencies: [],
             path: "Sources/FPNCountryPicker"
         ),
+        .target(
+            name: "FPNFiles",
+            sources: []
+        )
     ]
 )
