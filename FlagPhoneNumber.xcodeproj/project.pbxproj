@@ -206,6 +206,14 @@
 		0DF48B1422916F9F006AB39C /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				9B55FF082A95641B00CF5414 /* MyLibrary */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		9B55FF082A95641B00CF5414 /* MyLibrary */ = {
+			isa = PBXGroup;
+			children = (
 				0D79D5C82397CAAA00DD3E14 /* FlagPhoneNumber-Bridging-Header.h */,
 				0D8C7134229296D40026E0C7 /* FlagPhoneNumber.h */,
 				0D8C7135229296D40026E0C7 /* Info.plist */,
@@ -218,7 +226,7 @@
 				0D192FD42293078B002583B1 /* libPhoneNumber */,
 				0D192FF22293078B002583B1 /* Resources */,
 			);
-			path = Sources;
+			path = MyLibrary;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
